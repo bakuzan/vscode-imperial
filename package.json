@@ -15,6 +15,11 @@
                 "label": "Imperial",
                 "uiTheme": "vs",
                 "path": "./themes/Imperial-color-theme.json"
+            },
+			{
+                "label": "Imperial Dark",
+                "uiTheme": "vs",
+                "path": "./themes/Imperial-dark-color-theme.json"
             }
         ]
     }

@@ -7,8 +7,3 @@ Used Default Light as the base and personalised from there.
 ## Useful tools for editing
 
 [Online VS Code theme editor](https://themes.vscode.one/)
-
-## For the future
-
-Implement a dark variant!
-
